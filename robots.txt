@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://emergency-intelligence.github.io/EI-instytut/sitemap.xml
