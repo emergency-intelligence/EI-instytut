@@ -3,7 +3,7 @@
     <title>Emergency Intelligence - Instytut Ratownictwa Medycznego</title>
     <link href="https://emergency-intelligence.github.io/EI-instytut/feed.xml" rel="self" />
     <link href="https://emergency-intelligence.github.io/EI-instytut" />
-    <updated>2026-09-21T20:32:37+02:00</updated>
+    <updated>2026-09-21T20:48:22+02:00</updated>
     <author>
         <name>Olivier</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/i21-czyli-ostre-zespoly-wiencowe-w-ujeciu-medycyny-ratunkowej.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/i21-czyli-ostre-zespoly-wiencowe-w-ujeciu-medycyny-ratunkowej.html</id>
+            <category term="Stany nagłe i NZK"/>
 
         <updated>2026-09-21T20:32:37+02:00</updated>
             <summary type="html">
@@ -132,6 +133,9 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/szkolenie-podstawowe-emergency-intelligence.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/szkolenie-podstawowe-emergency-intelligence.html</id>
+            <category term="Stany nagłe i NZK"/>
+            <category term="Pierwsza pomoc"/>
+            <category term="Edukacja"/>
 
         <updated>2026-09-21T20:27:22+02:00</updated>
             <summary type="html">
@@ -237,6 +241,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/wstepny-triage-segregacja-rannych-w-zdarzeniach-masowych.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/wstepny-triage-segregacja-rannych-w-zdarzeniach-masowych.html</id>
+            <category term="Ocena stanu pacjenta"/>
 
         <updated>2026-09-21T20:16:13+02:00</updated>
             <summary type="html">
@@ -356,6 +361,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/mechanizm-urazu-w-ocenie-pacjenta-pourazowego-od-energii-do-potencjalnych-obrazen.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/mechanizm-urazu-w-ocenie-pacjenta-pourazowego-od-energii-do-potencjalnych-obrazen.html</id>
+            <category term="Urazy"/>
 
         <updated>2026-09-21T20:10:18+02:00</updated>
             <summary type="html">
@@ -481,6 +487,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/v-blokada-w-opornym-migotaniu-komor-farmakologiczna-racjonalnosc-dowody-kliniczne-i-granice-obecnej-wiedzy.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/v-blokada-w-opornym-migotaniu-komor-farmakologiczna-racjonalnosc-dowody-kliniczne-i-granice-obecnej-wiedzy.html</id>
+            <category term="Research study"/>
 
         <updated>2026-09-21T20:08:12+02:00</updated>
             <summary type="html">
@@ -963,6 +970,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/wstrzas-anafilaktyczny-kiedy-alergia-zamienia-sie-w-stan-zagrozenia-zycia.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/wstrzas-anafilaktyczny-kiedy-alergia-zamienia-sie-w-stan-zagrozenia-zycia.html</id>
+            <category term="Stany nagłe i NZK"/>
 
         <updated>2026-09-21T19:55:39+02:00</updated>
             <summary type="html">
@@ -1423,6 +1431,8 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/sample-czyli-o-czym-rozmawiac-z-pacjentem.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/sample-czyli-o-czym-rozmawiac-z-pacjentem.html</id>
+            <category term="Pierwsza pomoc"/>
+            <category term="Ocena stanu pacjenta"/>
 
         <updated>2026-09-21T19:48:03+02:00</updated>
             <summary type="html">
@@ -1454,6 +1464,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/parametry-zyciowe-w-medycynie-ratunkowej-liczby-ktore-mowia-historie-pacjenta.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/parametry-zyciowe-w-medycynie-ratunkowej-liczby-ktore-mowia-historie-pacjenta.html</id>
+            <category term="Ocena stanu pacjenta"/>
 
         <updated>2026-09-21T19:46:07+02:00</updated>
             <summary type="html">
@@ -1749,6 +1760,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/nagle-zatrzymanie-krazenia-nzk-pelne-opracowanie-zgodne-z-wytycznymi-erc-2.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/nagle-zatrzymanie-krazenia-nzk-pelne-opracowanie-zgodne-z-wytycznymi-erc-2.html</id>
+            <category term="Stany nagłe i NZK"/>
 
         <updated>2026-09-21T19:08:40+02:00</updated>
             <summary type="html">
@@ -1931,6 +1943,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/spi-czy-nie-spi-czyli-ocena-przytomnosci-pacjenta.html"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/spi-czy-nie-spi-czyli-ocena-przytomnosci-pacjenta.html</id>
+            <category term="Ocena stanu pacjenta"/>
 
         <updated>2026-09-21T18:16:54+02:00</updated>
             <summary type="html">

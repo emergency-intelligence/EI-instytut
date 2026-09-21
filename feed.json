@@ -20,9 +20,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Stany nagłe i NZK"
             ],
             "date_published": "2026-09-21T20:32:37+02:00",
-            "date_modified": "2026-09-21T20:32:37+02:00"
+            "date_modified": "2026-09-21T20:48:22+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/szkolenie-podstawowe-emergency-intelligence.html",
@@ -34,9 +35,12 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Stany nagłe i NZK",
+                   "Pierwsza pomoc",
+                   "Edukacja"
             ],
             "date_published": "2026-09-21T20:27:22+02:00",
-            "date_modified": "2026-09-21T20:27:22+02:00"
+            "date_modified": "2026-09-21T20:48:14+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/wstepny-triage-segregacja-rannych-w-zdarzeniach-masowych.html",
@@ -48,9 +52,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Ocena stanu pacjenta"
             ],
             "date_published": "2026-09-21T20:16:13+02:00",
-            "date_modified": "2026-09-21T20:16:13+02:00"
+            "date_modified": "2026-09-21T20:47:58+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/mechanizm-urazu-w-ocenie-pacjenta-pourazowego-od-energii-do-potencjalnych-obrazen.html",
@@ -62,9 +67,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Urazy"
             ],
             "date_published": "2026-09-21T20:10:18+02:00",
-            "date_modified": "2026-09-21T20:14:02+02:00"
+            "date_modified": "2026-09-21T20:47:47+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/v-blokada-w-opornym-migotaniu-komor-farmakologiczna-racjonalnosc-dowody-kliniczne-i-granice-obecnej-wiedzy.html",
@@ -76,9 +82,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Research study"
             ],
             "date_published": "2026-09-21T20:08:12+02:00",
-            "date_modified": "2026-09-21T20:08:12+02:00"
+            "date_modified": "2026-09-21T20:47:41+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/wstrzas-anafilaktyczny-kiedy-alergia-zamienia-sie-w-stan-zagrozenia-zycia.html",
@@ -90,9 +97,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Stany nagłe i NZK"
             ],
             "date_published": "2026-09-21T19:55:39+02:00",
-            "date_modified": "2026-09-21T19:55:39+02:00"
+            "date_modified": "2026-09-21T20:47:33+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/sample-czyli-o-czym-rozmawiac-z-pacjentem.html",
@@ -104,9 +112,11 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Pierwsza pomoc",
+                   "Ocena stanu pacjenta"
             ],
             "date_published": "2026-09-21T19:48:03+02:00",
-            "date_modified": "2026-09-21T19:48:03+02:00"
+            "date_modified": "2026-09-21T20:47:23+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/parametry-zyciowe-w-medycynie-ratunkowej-liczby-ktore-mowia-historie-pacjenta.html",
@@ -118,9 +128,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Ocena stanu pacjenta"
             ],
             "date_published": "2026-09-21T19:46:07+02:00",
-            "date_modified": "2026-09-21T19:46:07+02:00"
+            "date_modified": "2026-09-21T20:47:10+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/nagle-zatrzymanie-krazenia-nzk-pelne-opracowanie-zgodne-z-wytycznymi-erc-2.html",
@@ -132,9 +143,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Stany nagłe i NZK"
             ],
             "date_published": "2026-09-21T19:08:40+02:00",
-            "date_modified": "2026-09-21T19:44:08+02:00"
+            "date_modified": "2026-09-21T20:46:29+02:00"
         },
         {
             "id": "https://emergency-intelligence.github.io/EI-instytut/spi-czy-nie-spi-czyli-ocena-przytomnosci-pacjenta.html",
@@ -146,9 +158,10 @@
                 "name": "Olivier"
             },
             "tags": [
+                   "Ocena stanu pacjenta"
             ],
             "date_published": "2026-09-21T18:16:54+02:00",
-            "date_modified": "2026-09-21T18:28:06+02:00"
+            "date_modified": "2026-09-21T20:46:18+02:00"
         }
     ]
 }
