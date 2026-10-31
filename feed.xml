@@ -3,7 +3,7 @@
     <title>Emergency Intelligence - Instytut Ratownictwa Medycznego</title>
     <link href="https://emergency-intelligence.github.io/EI-instytut/feed.xml" rel="self" />
     <link href="https://emergency-intelligence.github.io/EI-instytut" />
-    <updated>2026-10-21T00:24:55+02:00</updated>
+    <updated>2026-10-31T19:12:48+01:00</updated>
     <author>
         <name>Olivier</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/histerotomia-ratunkowa-kiedy-z-jednego-pacjenta-robi-sie-dwoch/"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/histerotomia-ratunkowa-kiedy-z-jednego-pacjenta-robi-sie-dwoch/</id>
+            <category term="Stany nagłe i NZK"/>
 
         <updated>2026-10-21T00:24:55+02:00</updated>
             <summary type="html">
@@ -44,6 +45,9 @@
         </author>
         <link href="https://emergency-intelligence.github.io/EI-instytut/zlamanie-podstawy-czaszki-gdy-uraz-nie-zawsze-jest-widoczny/"/>
         <id>https://emergency-intelligence.github.io/EI-instytut/zlamanie-podstawy-czaszki-gdy-uraz-nie-zawsze-jest-widoczny/</id>
+            <category term="Urazy"/>
+            <category term="Pierwsza pomoc"/>
+            <category term="Edukacja"/>
 
         <updated>2026-10-04T14:56:39+02:00</updated>
             <summary type="html">
